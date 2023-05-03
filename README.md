@@ -1,5 +1,5 @@
 # Charlotte_Restaurants
-Extract specific restaurants with reviews in the city of Charlotte, NC
+Extract specific restaurants (bars and nightclubs actually) with reviews in the city of Charlotte, NC
 
 1. Create a project in the Google Cloud portal:
 https://console.cloud.google.com/
